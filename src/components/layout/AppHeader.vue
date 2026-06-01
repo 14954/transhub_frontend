@@ -37,7 +37,7 @@
           {{ roleConfig[role]?.text || "学生" }}
         </v-chip>
         <v-chip color="teal" size="small" variant="elevated">
-          Version: 3.0
+          Version: 1.0
         </v-chip>
       </div>
       <v-btn class="fill-height">
